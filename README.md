@@ -4,5 +4,4 @@
 ### I'm HuLuWang, a rubyist, a gopher
 - 🎓 CUMT
 - 📖 ruby, go
-- 💻 完成抽奖小程序
 
